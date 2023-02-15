@@ -52,7 +52,12 @@ nav>li{
 
 
 .picture-ac{
+    margin-top: 20px;
     max-width: 328px
+}
+
+.name{
+    color: #fff;
 }
 
 .name span{
